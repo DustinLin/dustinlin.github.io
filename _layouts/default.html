@@ -1,0 +1,21 @@
+<!-- 
+	This is the "layout" for a page
+	- include the defined head and header from "_includes"
+	- add class "wrapper" and script for styling
+
+-->
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+	<body>
+  		<div class="wrapper">
+			{% include header.html %}
+			<main>
+			<section>{{ content }}</section>
+			</main>
+  		</div>
+		<script src="javascripts/scale.fix.js"></script>
+	</body>
+
+</html>
