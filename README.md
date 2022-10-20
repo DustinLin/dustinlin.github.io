@@ -11,7 +11,7 @@ Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.or
 This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
 
-## Dustin notes, how things work
+## notes, how things work
 
 `jekyll serve` - launches the server at local host
 
@@ -28,3 +28,17 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unpor
 `assets` - folder for pictures?
 
 
+### References:
+
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+
+You can find the source code for Minima at GitHub:
+[jekyll][jekyll-organization] /
+[minima](https://github.com/jekyll/minima)
+
+You can find the source code for Jekyll at GitHub:
+[jekyll][jekyll-organization] /
+[jekyll](https://github.com/jekyll/jekyll)
+
+
+[jekyll-organization]: https://github.com/jekyll

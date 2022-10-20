@@ -9,7 +9,7 @@ layout:  default
 ---
 I'm a first-year masters student at UCSD advised by [Russell Impagliazzo](https://cseweb.ucsd.edu/~russell/). I completed my undergrad at UCSD in 2022 with a BS in Computer Science. During that time I was very fortunate to have also worked with [Nadia Heninger](https://cseweb.ucsd.edu/~nadiah/) and [Gerald Soosai Raj](https://geraldsoosairaj.github.io/).
 
-My interests lie in complexity theory, particularly pseudorandomness.
+My interests lie in complexity theory, particularly pseudorandomness and the use of randomness in computation.
 
 
 ## teaching
