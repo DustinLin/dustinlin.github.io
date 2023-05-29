@@ -7,7 +7,7 @@ permalink: /blog/gradadmissions.html
 # A Personal Experience of PhD Admissions
 As the 2023 CS PhD cycle is coming to a close, I'd like to share my experiences and lessons in hope that someone will take a thing a two from it. I believe there are many differences between the "admissions game" in undergrad and PhD programs, and I will include the many resources that I've read.
 
-**Disclaimer again** I would like to reiterate that this (along with many of the opinions you read online) should be taken with a grain of salt, but I recommend on reading many different sources and comparing what they each have to say and form your own opinions.
+**Disclaimer** I would like to reiterate that this (along with many of the opinions you read online) should be taken with a grain of salt, but I recommend on reading many different sources and comparing what they each have to say and form your own opinions.
 
 A brief note on those who are applying to *master* programs in CS, I don't think what I have to say below will be very applicable to your circumstance, being that the "admissions game" for masters and PhDs are very different. Perhaps I will make a separate post on it some other time.
 
