@@ -80,17 +80,11 @@ The PhD application process is frustratingly black box and highly variable, and 
 A final general piece of advice would be to be proactive, talk with professors, current PhD students, and other students in your cohort applying. The fact that you are reading this random grad student's blog post is a good sign! Please don't be shy to send me an email if you have any questions, I'd be more than happy to try to help. You got this!
 
 
-
-
-
-
-
-**[back to blog](/blog.html)**
-
-
 ## Resources list
 - [Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) - Mor Harchol-Balter
 - [Awesome CS PhD application advice](https://github.com/jedyang97/awesome-cs-phd-application-advice) - jedyang97
 - [csranksings](https://csrankings.org)
 - [dblp - computer science bibliography](https://dblp.org)
 - [Another Annotated Example: CS PhD Statement of Purpose](https://eugenielai.github.io/posts/another-annotated-sop.html)
+
+**[back to blog](/blog.html)**

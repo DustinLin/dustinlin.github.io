@@ -25,3 +25,4 @@ date: March 26th, 2023\
 My personal experience/thoughts on the CS PhD admissions process
 
 
+**[back to home](/index.html)**
