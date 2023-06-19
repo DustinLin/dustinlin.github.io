@@ -7,13 +7,12 @@
 # [link](./cont.html) , you can think to other pages like this, so far will have this one page
 layout:  default
 ---
-I'm a first-year masters student at University of California, San Diego (UCSD) advised by [Russell Impagliazzo](https://cseweb.ucsd.edu/~russell/). I completed my undergrad at UCSD in 2022 with a BS in Computer Science. During that time I was very fortunate to have also worked with [Nadia Heninger](https://cseweb.ucsd.edu/~nadiah/) and [Gerald Soosai Raj](https://geraldsoosairaj.github.io/).
+I'm an incoming PhD student at Northeastern University, grateful to be advised by [Emanuele Viola](https://www.ccs.neu.edu/home/viola/). My interests lie in complexity theory, particularly pseudorandomness and the use of randomness in computation.
 
-My interests lie in complexity theory, particularly pseudorandomness and the use of randomness in computation.
+I completed my masters and undergrad at the University of California, San Diego (UCSD), where I was advised by [Russell Impagliazzo](https://cseweb.ucsd.edu/~russell/). During my time at UCSD I was also very fortunate to have worked with [Nadia Heninger](https://cseweb.ucsd.edu/~nadiah/) and [Gerald Soosai Raj](https://geraldsoosairaj.github.io/).
 
-My master's thesis will be a survey on the connections between randomness extractors and pseudorandom generators, and how they relate to optimal derandomization.
 
-Starting next fall I will be attending Northeastern University as a PhD student, where I will be advised by [Emanuele Viola](https://www.ccs.neu.edu/home/viola/).
+My master's thesis was a survey on the connections between randomness extractors and pseudorandom generators, and how they relate to optimal derandomization.
 
 
 ## teaching
@@ -24,6 +23,7 @@ Starting next fall I will be attending Northeastern University as a PhD student,
 
 ## talks
 - UCSD Theory Lunch - Pseudorandomness: on Beating the Hybrid Argument, October 2022
+- UCSD Theory Lunch - PRGs for polynomials, June 2023
 
 ## other
 In my off-time I enjoy running, cycling, and swimming (occasionally putting the three together), as well as reading classics/philosophy. Any book recs are welcome.
