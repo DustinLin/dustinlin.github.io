@@ -2,19 +2,16 @@
 layout: default 
 title: blog 
 permalink: /blog.html
-# future posts, taking grad classes in undergrad
-# Spell for CSE 199, and how it changed by prospects for grad school
-# more recreation stuff, (moving to boston, diffs in Boston vs so-cal)
-# interest commentaries, current state of pokemon, video gam industry?
-# opinion on importance of philosophy in general education
-# can write something if decide to take amtrak to boston
-# write retro on writing master thesis?
 ---
 
 # Blog
 
 Feel free to contact me about stuff I wrote here.
 Take all posts with a grain of salt as "I know practically nothing". 
+
+## ["So we back in the mine"](/blog/tekkit.html)
+date: July 4th, 2023\
+Revisiting a classic
 
 ## [A Spiel for CSE 199](/blog/cse199.html)
 date: May 28th, 2023\
