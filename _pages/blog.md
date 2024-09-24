@@ -8,10 +8,14 @@ permalink: /blog.html
 
 Feel free to contact me about stuff I wrote here.
 Take all posts with a grain of salt as "I know I know nothing". 
+
+## [RIP Kindle](/blog/kindle.html)
+date: September 18th, 2024\
+Gone but not forgotten
+
 ## [Note-taking on an iPad](/blog/ipad.html)
 date: October 7th, 2023\
 Confusion in the App Store
-
 
 ## ["So we back in the mine"](/blog/tekkit.html)
 date: July 4th, 2023\

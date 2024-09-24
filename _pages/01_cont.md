@@ -4,6 +4,5 @@ title: cont
 permalink: /cont.html
 ---
 
-testing more page content
-- list
-- list2
+Yahaha! You found me!
+- There isn't anything interesting here, just a leftover test file from a long time ago.
