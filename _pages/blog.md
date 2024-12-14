@@ -9,6 +9,10 @@ permalink: /blog.html
 Feel free to contact me about stuff I wrote here.
 Take all posts with a grain of salt as "I know I know nothing". 
 
+## [The United States Postal Service](/blog/usps.html)
+date: December 13th, 2024\
+And a happy holidays to everyone
+
 ## [RIP Kindle](/blog/kindle.html)
 date: September 18th, 2024\
 Gone but not forgotten
