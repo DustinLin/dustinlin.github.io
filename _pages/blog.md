@@ -9,6 +9,10 @@ permalink: /blog.html
 Feel free to contact me about stuff I wrote here.
 Take all posts with a grain of salt as "I know I know nothing". 
 
+## [Training](/blog/training.html)
+date: September 26th, 2025\
+DIY sports nutrition
+
 ## [Moby Dick](/blog/mobydick.html)
 date: April 29, 2025\
 "Why upon your first voyage as a passenger, did you yourself feel such a mystical vibration, when first told that you and your ship were now out of sight of land?"
