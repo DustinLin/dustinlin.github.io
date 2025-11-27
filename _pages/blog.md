@@ -9,6 +9,10 @@ permalink: /blog.html
 Feel free to contact me about stuff I wrote here.
 Take all posts with a grain of salt as "I know I know nothing". 
 
+## [The Greeks](/blog/greeks.html)
+date: November 25th, 2025\
+What good is there in reading what people have to say 2000 years ago?
+
 ## [Training](/blog/training.html)
 date: September 26th, 2025\
 DIY sports nutrition
