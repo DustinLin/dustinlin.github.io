@@ -4,6 +4,8 @@ title: The Greeks
 permalink: /blog/greeks.html
 ---
 
+# The Greeks
+
 While society and technology have evolved, it seems like human nature and the fundamental questions we are trying to answer haven't changed. Perhaps it's not surprising at all how many of Epectitis and Plato's ideas hold up today, they were people just like us after all!
 
 I wanted to give a shout-out to two texts I have read lately. Spoiler alert: they are related to the two names I just mentioned. If you are interested in philosophy I highly recommend checking them out.

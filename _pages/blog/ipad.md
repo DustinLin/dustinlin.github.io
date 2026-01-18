@@ -47,14 +47,10 @@ I'll speedrun through a few notable ones, and list some pros and cons. Its good 
 	- Has a "pointer" tool, useful when you are sharing your screen on Zoom.
 	- Has a "hand tool" that allows you to use the Apple Pencil to scroll through the document instead of your fingers.
 
-
 ### Conclusion
 
 There are a ton more apps out there, but I was under a time constraint since the semester already started and I didn't want to spend all my time looking. Again I encourage you to try them yourself and see what fits *your* needs.
 
 Reflecting on this experience I realized I was being a stickler for money even though the price differences between some of these apps was less than that of a candy bar or bus fare. The alternative was to simply settle with one of the big 2 apps which will likely contain all the features you would ever want, and save you a few hours: the classic time vs money tradeoff.
-
- 
-
 
 **[back to blog](/blog.html)**

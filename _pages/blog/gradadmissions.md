@@ -62,7 +62,6 @@ While I don't have any insider info, or have helped on admissions committees, I 
 ### The GRE question
 I think the computer science field in general has been more liberal in dropping the GRE requirement for PhD admissions (or even prohibiting it), citing in general that it is not a good predictor of if one is going to be a good researcher. This makes sense if you place yourself in the shoes of a professor looking at potential applicants. They would value much more your research experiences, letters of recommendations, and the courses you took in undergrad than a test score. I personally (and would recommend), curating a list of places to apply to *first*, then decided if you want to take the GRE. Luckily for me none of the places I was interested in required it, so I decided not to take the exam at all.
 
-
 ## The wait after submitting apps - "Interviews" and visit days
 As stated before, it's common for either professors individually or admissions committees to reach out to you sometime in January or February to "chat". It is intentionally vague what "chat" implies here as everyone does things differently. If it's worth anything, in my experience professors personally sent me an email, and our "interviews" consisted of a zoom/online *conversation* (yes back and forth) about our research interests, current projects, and the professor's other PhD students.
 
@@ -72,13 +71,10 @@ It isn't usual for acceptances to come out before rejections (personally I got "
 
 I know this period of time will be very stressful, so try to avoid rapid refreshing your email like I did.
 
-
 ## Final remarks
 The PhD application process is frustratingly black box and highly variable, and a lot of questions can easily be answered by "it depends".  With the recent economic downturn combined with the upward trend of undergrads majoring in computer science + related majors, there are more and more PhD applications. With the hiring of faculty lagging behind this makes each cycle more and more competitive.
 
-
 A final general piece of advice would be to be proactive, talk with professors, current PhD students, and other students in your cohort applying. The fact that you are reading this random grad student's blog post is a good sign! Please don't be shy to send me an email if you have any questions, I'd be more than happy to try to help. You got this!
-
 
 ## Resources list
 - [Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf) - Mor Harchol-Balter

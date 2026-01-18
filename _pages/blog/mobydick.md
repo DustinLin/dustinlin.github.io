@@ -14,6 +14,4 @@ After finishing it, I conclude that it's still worth a read. And while you are a
 
 You can read the book for free [here](https://standardebooks.org/ebooks/herman-melville/moby-dick) courtesy of Standard Ebooks. (It doesn't seem like the Hemingway novel is there, but I managed to find it at a second-hand bookstore).
 
-
-
 **[back to blog](/blog.html)**

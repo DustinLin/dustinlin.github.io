@@ -22,7 +22,7 @@ date: September 26th, 2025\
 DIY sports nutrition
 
 ## [Moby Dick](/blog/mobydick.html)
-date: April 29, 2025\
+date: April 29th, 2025\
 "Why upon your first voyage as a passenger, did you yourself feel such a mystical vibration, when first told that you and your ship were now out of sight of land?"
 
 ## [Great Expectations](/blog/greatexpectations.html)
