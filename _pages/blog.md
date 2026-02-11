@@ -9,6 +9,10 @@ permalink: /blog.html
 Feel free to contact me about stuff I wrote here.
 Take all posts with a grain of salt as "I know I know nothing". 
 
+## [Wuthering Heights](/blog/wutheringheights.html)
+date: February 9th, 2026\
+"My old enemies have not beaten me; now would be the precise time to revenge myself...But where is the use?...I have lost the faculty of enjoying their destruction, and I am too idle to destroy for nothing."
+
 ## [The Adventures of Huckleberry Finn](/blog/huckfinn.html)
 date: January 17th, 2026\
 "... I didn't want to go back to the widow's any more and be so cramped up and sivilized, as they call it."
