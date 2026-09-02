@@ -9,6 +9,10 @@ permalink: /blog.html
 Feel free to contact me about stuff I wrote here.
 Take all posts with a grain of salt as "I know I know nothing". 
 
+## [Iliad and Odyssey](/blog/homer.html)
+date: August 11th, 2026\
+A classic book vs movie debate
+
 ## [Wuthering Heights](/blog/wutheringheights.html)
 date: February 9th, 2026\
 "My old enemies have not beaten me; now would be the precise time to revenge myself...But where is the use?...I have lost the faculty of enjoying their destruction, and I am too idle to destroy for nothing."
